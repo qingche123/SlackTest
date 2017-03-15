@@ -1,7 +1,10 @@
 language: go
 
 go:
-  - 1.x
-  - 1.6
-  - 1.7.x
-  - master
+  - 1.7.4
+notifications:
+  email:
+    - guoxiaojie@onchain.com
+    - zhouziyan@onchain.com
+  on_success: always
+  on_failure: always

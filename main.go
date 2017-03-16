@@ -1,10 +1,10 @@
-package main
+8package main
 
 import "fmt"
 import "github.com/qingche123/SlackTest/test"
 
 func main(){
-	test.Print("7")
+	test.Print("8")
 	fmt.Println("Hello World\n")
 	fmt.Println("Hello World\n")	
 }

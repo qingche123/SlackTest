@@ -8,6 +8,7 @@ func main(){
 	test.Print("123")	
 	test.Print("333123")
 	test.Print("333123111111111")
+	testPrint("22222")
 	fmt.Println("Hello World\n")
 	fmt.Println("Hello World\n")	
 }

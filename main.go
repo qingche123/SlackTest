@@ -11,7 +11,7 @@ func main(){
 	test.Print("22222")
 	test.Print("33333")
 	test.Print("333339")
-	testPrint("333331")
+	test.Print("333331")
 	fmt.Println("Hello World\n")
 	fmt.Println("Hello World\n")	
 }

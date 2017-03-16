@@ -10,6 +10,7 @@ func main(){
 	test.Print("333123111111111")
 	test.Print("22222")
 	test.Print("33333")
+	test.Print("333331")
 	fmt.Println("Hello World\n")
 	fmt.Println("Hello World\n")	
 }

@@ -5,7 +5,7 @@ import "github.com/qingche123/SlackTest/test"
 
 func main(){
 	test.Print("123")
-	test.
+	test.Print("321")
 	fmt.Println("Hello World\n")
 	fmt.Println("Hello World\n")	
 }

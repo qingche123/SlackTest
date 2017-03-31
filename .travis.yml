@@ -1,5 +1,7 @@
 language: go
-
+install:
+  - grep 'import' -rl ./| xargs sed -i 's#"SlackTest/#"github.com/qingche123/SlackTest/#g'
+  - more main.go
 go:
   - 1.7.4
 notifications:

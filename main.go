@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/qingche123/SlackTest/test"
+import "SlackTest/test"
 
 func main(){
 	test.Print("7")
